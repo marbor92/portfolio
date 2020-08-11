@@ -30,5 +30,5 @@ Previously, I was working for almost 4 years as a Product Engineer in the bigges
 
 # My Projects
 * Checkio (Python exercises)
-* Pytest + Selenium - parametrize
+* (Pytest + Selenium - parametrize)[https://github.com/marbor92/pytest_parametrize]
 * Pytest + Selenium 
