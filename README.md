@@ -27,6 +27,7 @@ Previously, I was working for almost 4 years as a Product Engineer in the bigges
 * [Grupa ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
 * [Testowanie oprogramowania - PRACA, ogłoszenia](https://www.facebook.com/groups/215557562210470/)
+* [Guru99 - Software Testing Tutorials](https://www.guru99.com/software-testing.html
 
 # My Projects
 * Checkio (Python exercises)
