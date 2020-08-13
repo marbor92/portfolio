@@ -31,6 +31,5 @@ Previously, I was working for almost 4 years as a Product Engineer in the bigges
 * [Software Testing Materials](https://www.softwaretestingmaterial.com/software-testing/)
 
 # My Projects
-* Checkio (Python exercises)
+* [Checkio (Python exercises)](https://github.com/marbor92/checkio_python)
 * [Pytest + Selenium - parametrize](https://github.com/marbor92/pytest_parametrize)
-* Pytest + Selenium 
